@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - enemy
+  - coin
+  - TrapBox
+  - platform
+  - border
+  - enemyBounce
+  - enemyDownKill
+  - wakeUp
+  - enemyUp
+  - questionTrigger
+  - GM
+  - jumperDead
+  - killCollider
+  - megaCoin
+  - coinDestroy
+  - kill
+  - LM
+  - ignore
+  - MM
+  - music
+  - combo
+  - slide
+  - ceiling
+  - destroy
+  - destroyEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ignore Collider
+  - Trap Up
+  - Ignore For Player
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 3514093363
+    locked: 0
+  - name: 2
+    uniqueID: 3622391119
+    locked: 0
